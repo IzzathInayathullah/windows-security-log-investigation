@@ -1,0 +1,9 @@
+timestamp,event_id,account,logon_type,source_ip,workstation,logon_id,description
+2026-10-10 09:00:00,4624,SYSTEM,5,-,WORKSTATION-01,0x100,Successful service logon
+2026-10-10 09:00:01,4672,SYSTEM,-,-,WORKSTATION-01,0x100,Special privileges assigned
+2026-10-10 10:14:02,4625,j.smith,3,192.0.2.50,UNKNOWN,-,Failed network logon
+2026-10-10 10:14:08,4625,j.smith,3,192.0.2.50,UNKNOWN,-,Failed network logon
+2026-10-10 10:14:15,4625,j.smith,3,192.0.2.50,UNKNOWN,-,Failed network logon
+2026-10-10 10:14:22,4625,j.smith,3,192.0.2.50,UNKNOWN,-,Failed network logon
+2026-10-10 10:15:03,4624,j.smith,3,192.0.2.50,UNKNOWN,0x245,Successful network logon
+2026-10-10 10:20:00,4634,j.smith,-,-,WORKSTATION-01,0x245,Logon session ended
