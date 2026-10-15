@@ -70,6 +70,26 @@ Verify the dataset checksum:
 sha256sum -c evidence/dataset-sha256.txt
 ```
 
+## Project Screenshots
+
+### Windows Event Viewer
+
+This screenshot shows an example of reviewing a Windows Security log event. Any real-system identifiers have been removed before publication.
+
+![Windows Event Viewer](screenshots/windows-event-4624.png)
+
+### Synthetic Security Log Analysis
+
+The following screenshot demonstrates reviewing the fictional CSV dataset in Kali Linux.
+
+![Synthetic Log Analysis](screenshots/synthetic-log-analysis.png)
+
+### SHA-256 Integrity Verification
+
+This screenshot shows the successful checksum verification of the synthetic dataset.
+
+![SHA-256 Verification](screenshots/sha256-verification.png)
+
 ## Limitations
 
 - The dataset is fictional and contains only a small number of events.
